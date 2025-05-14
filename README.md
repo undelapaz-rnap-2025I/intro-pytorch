@@ -45,7 +45,7 @@ Then open `notebook.ipynb` in your browser.
 ## Requirements
 
 - Python 3.13
-- PyTorch (with CUDA support)
+- PyTorch
 - scikit-learn
 - Jupyter Notebook
 
